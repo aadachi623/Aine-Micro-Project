@@ -1,6 +1,6 @@
 # Aine-Micro-Project
 Aine's Micro Project for Data and the State (DS-30195, Spring 2026)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO/blob/main/notebook.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO/blob/main/notebook.ipynb](https://colab.research.google.com/drive/1XxOdYBPcxWMekJtWEIsbSq-LamAJHBQy?usp=sharing))
 
 Welcome! 
 In addition to the data files provided, you will need...
